@@ -1,0 +1,14 @@
+{
+  "redirections": [
+    {
+      "source_path": "articles/index.md",
+      "redirect_url": "healthcare/overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/healthcare/index.md",
+      "redirect_url": "overview",
+      "redirect_document_id": "false"
+    }
+  ]
+}
